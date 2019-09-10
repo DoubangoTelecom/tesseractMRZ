@@ -11,6 +11,7 @@ If you're lazy and don't want to train the model by yourself then, try the ones 
 ### Testing the accuracy ###
 
 You can check how accurate the model is at https://www.doubango.org/webapps/mrz/
+You may also be interested in our Magnetic ink character recognition (MICR E-13B & CMC-7) implementation at https://www.doubango.org/webapps/micr/
 
 ### Getting help ###
 
