@@ -15,4 +15,4 @@ You may also be interested in our **Magnetic ink character recognition (MICR E-1
 
 ### Getting help ###
 
-To get help: https://groups.google.com/forum/#!forum/doubango-ai
+To get help please check our [discussion group](https://groups.google.com/forum/#!forum/doubango-ai) or [twitter account](https://twitter.com/doubangotelecom?lang=en)
