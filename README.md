@@ -1,3 +1,8 @@
+**!!New!!** <br />
+SDK to detect and recognize MRZ/MRTD released at https://github.com/DoubangoTelecom/ultimateMRZ-SDK <br />
+If you're looking for information on how to [parse](https://www.doubango.org/SDKs/mrz/docs/MRZ_parser.html) or [validate](https://www.doubango.org/SDKs/mrz/docs/Data_validation.html) MRZ data check [here](https://www.doubango.org/SDKs/mrz/docs/MRZ_parser.html) and [here](https://www.doubango.org/SDKs/mrz/docs/Data_validation.html).
+<hr />
+
 ### The dataset ###
 
 The dataset contains more than __#7 thousands__ images (__.tif__) with ground truth (__.gt.txt__) from Google image augmented with few synthetic data.
